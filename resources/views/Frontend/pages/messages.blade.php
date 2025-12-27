@@ -39,7 +39,7 @@
                                 <div class="message-profile">
                                     <div class="wrap">
                                         <img src="{{asset('assets/images/users/user-4.jpg')}}" class="online conv-img" alt="Conversation user" />
-                                        <p>Arthur Minasyan</p>
+                                        <p>Aatif Raza</p>
                                         <i class='bx bx-chevron-down expand-button'></i>
                                         <div id="status-options">
                                             <ul id="set-online-status">
