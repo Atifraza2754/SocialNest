@@ -30,7 +30,7 @@
         <div class="row newsfeed-size">
             <div class="col-md-12 message-right-side">
                 {{-- header --}}
-                @include('Frontend.partials.header')
+                {{-- @include('Frontend.partials.header') --}}
 
                 <div class="row message-right-side-content">
                     <div class="col-md-12">

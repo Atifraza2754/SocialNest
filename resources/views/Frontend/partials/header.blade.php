@@ -176,7 +176,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-6.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-6.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -192,7 +192,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-5.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-5.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -208,7 +208,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-7.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-7.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -224,7 +224,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-8.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-8.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -240,7 +240,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-9.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-9.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -256,7 +256,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-10.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-10.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -297,7 +297,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-10.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-10.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -313,7 +313,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-7.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-7.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -329,7 +329,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-8.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-8.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -345,7 +345,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-11.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-11.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -361,7 +361,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-5.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-5.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -377,7 +377,7 @@
                                         <li>
                                             <div class="col-md-2 col-sm-2 col-xs-2">
                                                 <div class="notify-img">
-                                                    <img src="assets/images/users/user-12.png" alt="notification user image">
+                                                    <img src="{{asset('assets/images/users/user-12.png')}}" alt="notification user image">
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-sm-10 col-xs-10">
@@ -423,7 +423,7 @@
                             </li>
 
                             <li class="nav-item s-nav nav-icon dropdown">
-                                <a href="settings.html" data-toggle="dropdown" data-placement="bottom" data-title="Settings" class="nav-link settings-link rm-drop-mobile drop-w-tooltip" id="settings-dropdown"><img src="assets/images/icons/navbar/settings.png" class="nav-settings" alt="navbar icon"></a>
+                                <a href="settings.html" data-toggle="dropdown" data-placement="bottom" data-title="Settings" class="nav-link settings-link rm-drop-mobile drop-w-tooltip" id="settings-dropdown"><img src="{{asset('assets/images/icons/navbar/settings.png')}}" class="nav-settings" alt="navbar icon"></a>
                                 <div class="dropdown-menu dropdown-menu-right settings-dropdown shadow-sm" aria-labelledby="settings-dropdown">
                                     <a class="dropdown-item" href="#">
                                         <img src="{{ asset('assets/images/icons/navbar/help.png')}}" alt="Navbar icon"> Help Center</a>
@@ -440,7 +440,7 @@
                                 </div>
                             </li>
 
-                            <button type="button" class="btn nav-link" id="menu-toggle"><img src="assets/images/icons/theme/navs.png" alt="Navbar navs"></button>
+                            <button type="button" class="btn nav-link" id="menu-toggle"><img src="{{asset('assets/images/icons/theme/navs.png')}}" alt="Navbar navs"></button>
                         </ul>
 
                     </div>
